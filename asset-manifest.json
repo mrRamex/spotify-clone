@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e844f20c.css",
+    "main.js": "/static/js/main.ce2c65ba.js",
+    "static/media/trygve-larsen-a-lovely-sweetheart-instrumental-jazz-5865.mp3": "/static/media/trygve-larsen-a-lovely-sweetheart-instrumental-jazz-5865.d1c4784b9cce59b129b8.mp3",
+    "static/media/wemida-galaxy-quest-airy-dreamy-synthwave-retrowave-161583.mp3": "/static/media/wemida-galaxy-quest-airy-dreamy-synthwave-retrowave-161583.b52d898dd23646fe81c9.mp3",
+    "static/media/weeknds-122592.mp3": "/static/media/weeknds-122592.11efbe74dd66bc6f9558.mp3",
+    "static/media/twisted-138700.mp3": "/static/media/twisted-138700.b8444f3f3fed0e468c16.mp3",
+    "static/media/the-sport-electro-11748.mp3": "/static/media/the-sport-electro-11748.f286fe78075cae8f8a0c.mp3",
+    "static/media/artist.jpg": "/static/media/artist.fcf509c8c942c0c4dad3.jpg",
+    "static/media/song-img.jpg": "/static/media/song-img.7d93e0428dc3a39c5545.jpg",
+    "static/media/track.png": "/static/media/track.bddb5792891bf59741a8.png",
+    "index.html": "/index.html",
+    "main.e844f20c.css.map": "/static/css/main.e844f20c.css.map",
+    "main.ce2c65ba.js.map": "/static/js/main.ce2c65ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e844f20c.css",
+    "static/js/main.ce2c65ba.js"
+  ]
+}
